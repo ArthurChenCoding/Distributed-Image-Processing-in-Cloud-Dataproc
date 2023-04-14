@@ -57,4 +57,4 @@ gs://${MYBUCKET}/imgs/ \
 gs://${MYBUCKET}/out/
 ```
 
-### please watch demo video for more detial
+### please watch demo video for more detail
